@@ -1,50 +1,86 @@
-20th Jul
 
+Hello,
 
-Hello Sahar,
+We have been alerted that the below websites went offline at  8:10 PM:
 
-Below is the shift summary for the day
+http://public.nqaits.acecqa.gov.au
 
-Alerts:
-INC0221224 - Monitoring Alert - ec2amaz-0lkc1rh.ado.local - Disk Alert 
-INC0221226 - Monitoring Alert - aws476prodsql02.frl.local - CPU Alert
+The website is showing the maintenance page. We are checking further and will update you accordingly.
 
-Critical Incident:
+Regards,
+Abhijeet
 
+---------------
 
-Tickets:
-REQ0168359 - Set up new folders in SFTP server and add additional IP Address to access the SFTP Server
-REQ0168041 - Stopping AWS-221/222/223 EC2/RDS  (Test environment)
-REQ0167832 - Please monitor whether a website is accessible every 5mins and then record the HTTP status code for 1 week
-REQ0168363 - TLS Version Upgrade from 1.0 and 1.1 to 1.2 for PROD Environment (AWS263)
-REQ0166551 - TLS Version Upgrade from 1.0 and 1.1 to 1.2 for UAT Environment (AWS297)
+P2
 
-Calls Processed:
+1. For P1 and P2 we need to first call CIM and informed him/her about the action plan [anytime]
 
-Change Requests:
+~~~~~~
+Hi this is abhijeet form PST
 
+I am calling you regarding the P2 incident for OPC
 
-Suppressed Events:
+We have received the URL down alert for AWS125PRDPUBHS1
 
-Tasks:
+I have called on call MHT, however, Temi does not have access to the OPC so he advised me to contact you
+~~~~~~
 
+2. If we are not able to resolve this then during business hours escalate it to associate and after hours escalate it to MHT/Linux
 
-Incoming Calls:
+3. If you can to resolve then for prod env call the customer after CIM
+And if you are escalating for prod servers then call the customer after the escalation
+
+---------------
+P3
+
+~~~
+I have called on call MHT, however, Temi does not have access to the OPC so he advised me to contact you
+~~~
+
+For P3 during business hours escalate all calls to on-call associates
+After hours escalate the incidents to MHT or Linux [as per customer environment]
+
+---------------
+
+Escalation
+
+Requests need to escalate to the msg-mss-team slack channel during business hours
+
+In after-hours only if the customer calls and confirmed it is urgent then escalate to MHT or Linux
+
+App related calls/incidents (DP only) during business hours need to escalate to the co-app-dsc slack channel
+After hours need to call AppOps
+
+---------------
+Customer Opening:
+
+Thank you for calling ARQ enterprises, this Abhijeet how may I assist you
+
+---------------
+
+Hello,
+
+The following alert has appeared on our monitoring system:
+
+[code]<h2>Events from Monitoring</h2><div style="padding-top: 3px;"><h3 style="padding-right: 20px; display: inline">awsausql01n8</h3>2023-07-05T14:06:01<hr/>AGENT JOBS CRITICAL: Agent Job Failures - [OnlineOrdering_Admin to OnlineOrdering Merge ALL] </div>[/code]
+
+We will have a look and will update you accordingly.
+
+Regards,
+Abhijeet
+
+---------------
+
+Hello Mohit,
+
+Thank you for your email.
+
+We will have a look and will update you accordingly.
 
 Regards,
 
-
-
-
-
------------------------
-Hi this is abhijeet form PST
-
-I am calling you regarding the P3 incident for OPC
-We have received the server down alert for AWS125PRDPUBHS1
-I have called on call MHT, however, Temi does not have access to the OPC so he advised me to contact you
-
-
+---------------
 
 Hello Stephan,
 
@@ -54,114 +90,3 @@ We have received your email and working on it. We will get back to you with furt
 
 Regards,
 Abhijeet
-======================================================
-For P1 and P2 we need to first call CIM and informed him/her about the action plan [anytime]
-If we are not able to resolve this then during business hours escalate it to associate / after hours escalate it to MHT/Linux
-If you are able to resolve then for prod env call the customer after CIM
-And if you are escalating for prod servers then call the customer after the escalation
-
-For P3 during business hours escalate all calls to on-call associates
-After hours escalate the incidents to MHT or Linux [as per customer environment]
-
-Requests need to escalate to the msg-mss-team slack channel during business hours
-In after-hours only if the customer calls and confirmed it is urgent then escalate to MHT or Linux
-
-
-Every day needs to check below:
-Outlook Calendar for changes
-Incidents
-Requests
-MSP [Internal tickets}
-Calls if arrived
-At the shift end [last 1 hour] suppressed events
-
-Escalation opening:
-Hello this is Abhjeet from PST
-Customer Opening:
-Thank you for calling ARQ enterprises, this Abhijeet how may I assist you
-
-App related calls/incidents (DP only) during business hours need to escalate to the co-app-dsc slack channel
-After hours need to call AppOps
-
-
-
-Hello,
-We have been alerted that the below websites went offline at  8:10 PM:
-http://public.nqaits.acecqa.gov.au
-The website is showing the maintenance page. We are checking further and will update you accordingly.
-Regards,
-Abhijeet
-
-
-
-Hi this is abhijeet form PST
-I am calling you regarding the P3 incident for OPC
-We have received the server down alert for AWS125PRDPUBHS1
-I have called on call MHT, however, Temi does not have access to the OPC so he advised me to contact you
-
-
-Hello,
-The following alert has appeared on our monitoring system:
-[code]<h2>Events from Monitoring</h2><div style="padding-top: 3px;"><h3 style="padding-right: 20px; display: inline">awsausql01n8</h3>2023-07-05T14:06:01<hr/>AGENT JOBS CRITICAL: Agent Job Failures - [OnlineOrdering_Admin to OnlineOrdering Merge ALL] </div>[/code]
-We will have a look and will update you accordingly.
-Regards,
-Abhijeet
-
-
-Dominos:
-Full name: Abhijeet Shripad
-User logon name: abhijeet.shripad@dpcloud.local
-Password: P2AsO!i5$qa5941
-Beyond Blue:
-Full name: Abhijeet Shripad
-User logon name: abhijeet.shripad@bb.local
-Password: P2AsO!i5$qa5941
-Trobexis:
-Full name: Abhijeet Shripad
-User logon name: Abhijeet.Shripad@one.trobexis.com
-Password: P2AsO!i5$qa5941
-Liberty Mutual:
-Full name: Abhijeet Shripad
-User logon name: abhijeet.shripad@liberty.managedcloud.solutions
-Password: P2AsO!i5$qa5941
-Crown Pre-Prod:
-IP: 40.127.64.53:3341
-User logon name: websitestest\mit.admin
-Password: Lon2*4SV@&^0Mn*o1%-*R41^-3%Q7O=1D735Ae$M)bi&9
-Crown Prod:
-IP: 52.243.86.200:3341
-User logon name: websitesprod\mit.admin
-Password: Lon2*4SV@&^0Mn*o1%-*R41^-3%Q7O=1D735Ae$M)bi&9
-LITE n EASY:
-Full name: Abhijeet Shripad
-User logon name: abhijeet.shripad@liteneasy.managedcloud.solutions
-Password: P2AsO!i5$qa5941
-AWS109:
-Username - nqa\abhijeet.shripad
-Password - P2AsO!i5$qa5941
-Trobexis AD user:
-one\adm-abhijeet.shripad
-P2AsO!i5$qa5941
-Created below AD accounts:
-uatnqa\abhijeet.shripad
-devnqa\abhijeet.shripad
-P2AsO!i5$qa5941
-
-
-
-
-Hi,
-We have been alerted that the below websites went offline at <TIME>.
-**Paste alert in as HTML**
-Status update to customer.
-Thanks,
-Name
-
-
-
-
-
-Hello Mohit,
-Thank you for your email.
-We will have a look and will update you accordingly.
-Regards,

@@ -82,3 +82,86 @@ Thank you for calling ARQ enterprises, this Abhijeet how may I assist you
 
 App related calls/incidents (DP only) during business hours need to escalate to the co-app-dsc slack channel
 After hours need to call AppOps
+
+
+
+Hello,
+We have been alerted that the below websites went offline at  8:10 PM:
+http://public.nqaits.acecqa.gov.au
+The website is showing the maintenance page. We are checking further and will update you accordingly.
+Regards,
+Abhijeet
+
+
+
+Hi this is abhijeet form PST
+I am calling you regarding the P3 incident for OPC
+We have received the server down alert for AWS125PRDPUBHS1
+I have called on call MHT, however, Temi does not have access to the OPC so he advised me to contact you
+
+
+Hello,
+The following alert has appeared on our monitoring system:
+[code]<h2>Events from Monitoring</h2><div style="padding-top: 3px;"><h3 style="padding-right: 20px; display: inline">awsausql01n8</h3>2023-07-05T14:06:01<hr/>AGENT JOBS CRITICAL: Agent Job Failures - [OnlineOrdering_Admin to OnlineOrdering Merge ALL] </div>[/code]
+We will have a look and will update you accordingly.
+Regards,
+Abhijeet
+
+
+Dominos:
+Full name: Abhijeet Shripad
+User logon name: abhijeet.shripad@dpcloud.local
+Password: P2AsO!i5$qa5941
+Beyond Blue:
+Full name: Abhijeet Shripad
+User logon name: abhijeet.shripad@bb.local
+Password: P2AsO!i5$qa5941
+Trobexis:
+Full name: Abhijeet Shripad
+User logon name: Abhijeet.Shripad@one.trobexis.com
+Password: P2AsO!i5$qa5941
+Liberty Mutual:
+Full name: Abhijeet Shripad
+User logon name: abhijeet.shripad@liberty.managedcloud.solutions
+Password: P2AsO!i5$qa5941
+Crown Pre-Prod:
+IP: 40.127.64.53:3341
+User logon name: websitestest\mit.admin
+Password: Lon2*4SV@&^0Mn*o1%-*R41^-3%Q7O=1D735Ae$M)bi&9
+Crown Prod:
+IP: 52.243.86.200:3341
+User logon name: websitesprod\mit.admin
+Password: Lon2*4SV@&^0Mn*o1%-*R41^-3%Q7O=1D735Ae$M)bi&9
+LITE n EASY:
+Full name: Abhijeet Shripad
+User logon name: abhijeet.shripad@liteneasy.managedcloud.solutions
+Password: P2AsO!i5$qa5941
+AWS109:
+Username - nqa\abhijeet.shripad
+Password - P2AsO!i5$qa5941
+Trobexis AD user:
+one\adm-abhijeet.shripad
+P2AsO!i5$qa5941
+Created below AD accounts:
+uatnqa\abhijeet.shripad
+devnqa\abhijeet.shripad
+P2AsO!i5$qa5941
+
+
+
+
+Hi,
+We have been alerted that the below websites went offline at <TIME>.
+**Paste alert in as HTML**
+Status update to customer.
+Thanks,
+Name
+
+
+
+
+
+Hello Mohit,
+Thank you for your email.
+We will have a look and will update you accordingly.
+Regards,

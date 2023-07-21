@@ -1,0 +1,84 @@
+20th Jul
+
+
+Hello Sahar,
+
+Below is the shift summary for the day
+
+Alerts:
+INC0221224 - Monitoring Alert - ec2amaz-0lkc1rh.ado.local - Disk Alert 
+INC0221226 - Monitoring Alert - aws476prodsql02.frl.local - CPU Alert
+
+Critical Incident:
+
+
+Tickets:
+REQ0168359 - Set up new folders in SFTP server and add additional IP Address to access the SFTP Server
+REQ0168041 - Stopping AWS-221/222/223 EC2/RDS  (Test environment)
+REQ0167832 - Please monitor whether a website is accessible every 5mins and then record the HTTP status code for 1 week
+REQ0168363 - TLS Version Upgrade from 1.0 and 1.1 to 1.2 for PROD Environment (AWS263)
+REQ0166551 - TLS Version Upgrade from 1.0 and 1.1 to 1.2 for UAT Environment (AWS297)
+
+Calls Processed:
+
+Change Requests:
+
+
+Suppressed Events:
+
+Tasks:
+
+
+Incoming Calls:
+
+Regards,
+
+
+
+
+
+-----------------------
+Hi this is abhijeet form PST
+
+I am calling you regarding the P3 incident for OPC
+We have received the server down alert for AWS125PRDPUBHS1
+I have called on call MHT, however, Temi does not have access to the OPC so he advised me to contact you
+
+
+
+Hello Stephan,
+
+Thank you for reaching out.
+
+We have received your email and working on it. We will get back to you with further updates.
+
+Regards,
+Abhijeet
+======================================================
+For P1 and P2 we need to first call CIM and informed him/her about the action plan [anytime]
+If we are not able to resolve this then during business hours escalate it to associate / after hours escalate it to MHT/Linux
+If you are able to resolve then for prod env call the customer after CIM
+And if you are escalating for prod servers then call the customer after the escalation
+
+For P3 during business hours escalate all calls to on-call associates
+After hours escalate the incidents to MHT or Linux [as per customer environment]
+
+Requests need to escalate to the msg-mss-team slack channel during business hours
+In after-hours only if the customer calls and confirmed it is urgent then escalate to MHT or Linux
+
+
+Every day needs to check below:
+Outlook Calendar for changes
+Incidents
+Requests
+MSP [Internal tickets}
+Calls if arrived
+At the shift end [last 1 hour] suppressed events
+
+Escalation opening:
+Hello this is Abhjeet from PST
+Customer Opening:
+Thank you for calling ARQ enterprises, this Abhijeet how may I assist you
+
+App related calls/incidents (DP only) during business hours need to escalate to the co-app-dsc slack channel
+After hours need to call AppOps
